@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fmlia Rojas\\Desktop\\jimena_cuartas_productos\\Proyecto\\Proyecto.csproj": {}
+    "C:\\Users\\Fmlia Rojas\\Desktop\\jimena_cuartas_productos\\proyecto\\Proyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fmlia Rojas\\Desktop\\jimena_cuartas_productos\\Proyecto\\Proyecto.csproj": {
+    "C:\\Users\\Fmlia Rojas\\Desktop\\jimena_cuartas_productos\\proyecto\\Proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fmlia Rojas\\Desktop\\jimena_cuartas_productos\\Proyecto\\Proyecto.csproj",
+        "projectUniqueName": "C:\\Users\\Fmlia Rojas\\Desktop\\jimena_cuartas_productos\\proyecto\\Proyecto.csproj",
         "projectName": "Proyecto",
-        "projectPath": "C:\\Users\\Fmlia Rojas\\Desktop\\jimena_cuartas_productos\\Proyecto\\Proyecto.csproj",
+        "projectPath": "C:\\Users\\Fmlia Rojas\\Desktop\\jimena_cuartas_productos\\proyecto\\Proyecto.csproj",
         "packagesPath": "C:\\Users\\Fmlia Rojas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fmlia Rojas\\Desktop\\jimena_cuartas_productos\\Proyecto\\obj\\",
+        "outputPath": "C:\\Users\\Fmlia Rojas\\Desktop\\jimena_cuartas_productos\\proyecto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

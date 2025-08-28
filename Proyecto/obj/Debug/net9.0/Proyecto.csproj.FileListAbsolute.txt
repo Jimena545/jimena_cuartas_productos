@@ -1,0 +1,15 @@
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\bin\Debug\net9.0\Proyecto.exe
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\bin\Debug\net9.0\Proyecto.deps.json
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\bin\Debug\net9.0\Proyecto.runtimeconfig.json
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\bin\Debug\net9.0\Proyecto.dll
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\bin\Debug\net9.0\Proyecto.pdb
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\obj\Debug\net9.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\obj\Debug\net9.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\obj\Debug\net9.0\Proyecto.AssemblyInfo.cs
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\obj\Debug\net9.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\obj\Debug\net9.0\Proyecto.sourcelink.json
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\obj\Debug\net9.0\Proyecto.dll
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\obj\Debug\net9.0\refint\Proyecto.dll
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\obj\Debug\net9.0\Proyecto.pdb
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\obj\Debug\net9.0\Proyecto.genruntimeconfig.cache
+C:\Users\Fmlia Rojas\Desktop\jimena_cuartas_productos\proyecto\obj\Debug\net9.0\ref\Proyecto.dll
